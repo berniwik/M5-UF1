@@ -4,7 +4,6 @@ L'ordinador transforma informació o dades.
 
 Un programa informàtic no és més que un seguit d’ordres que es porten a terme seqüencialment, aplicades sobre un conjunt de dades.
 
-
 Tipus de programes infolrmàtics:
 
 • Un editor processa les dades d’un document de text.
