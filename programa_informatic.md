@@ -1,3 +1,5 @@
+###**Programa informàtic**
+
 Un programa infomàtic és un conjunt d’esdeveniments ordenats de manera que se succeeixen de forma seqüencial en el temps, un darrere l’altre.
 
 L'ordinador transforma informació o dades.
@@ -6,7 +8,7 @@ Un programa informàtic no és més que un seguit d’ordres que es porten a ter
 
 Tipus de programes infolrmàtics:
 
-• Un editor processa les dades d’un document de text.
+··* Un editor processa les dades d’un document de text.
 
 • Un full de càlcul processa dades numèriques ubicades en un fitxer.
 
