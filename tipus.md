@@ -24,15 +24,6 @@ Cada instrucció en aquest llengatge corespon a una instrucció a llenguatge mà
 S'utilitza per programa controladors (drivers) o aplicacions de temps real.
 Molt eficient en la velocitat i memòria.
 
-**Llenguatge d'alt nivell**
-
-És més evolucionat, utilitzen paraules 
-
-
-
-
-
-
 **Característiquies**
 
 Avantatges primera i segona generació:
@@ -47,3 +38,14 @@ Inconvenients:
   * No permeten expressar de forma directa conceptes habituals a nivell d'alorisme.
   * Són difícils de codifucar, documentar i mantenir.
 
+**llenguatges d’alt nivell**
+
+Són més evolucionats i utilitzen paraules i frases relativament fàcils d’entendre. Proporcionen també facilitat per a expressar alteracions del control del flux, normalment s’utilitza per a fer programa es mes grans i que es important que es pugi interpretar per les persones.
+
+**llenguatges de propòsit específic**
+
+Permet desenvolupar aplicacions sofisticades en un espai curt de temps, s’automatitzen certs aspectes que es tindrien que fer a mà, també permet fer petites proves del programa a mig fer per tal de saber si s’adaptarà al que nosaltres necessitem.
+
+**Llenguatge de cinquena generació** 
+
+Sóon específics per al tractament de la intel·ligència artificial i el sistemes experts, es a dir, el seu objectiu es anticipar-se a les necessites de l'usuari, aquest llenguatge encara està en desenvolupament.
